@@ -1,1 +1,1 @@
-teste aula 
+print("testando git pelo vs code")
